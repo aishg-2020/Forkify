@@ -1,5 +1,2 @@
-export const API_URL = 'https://forkify-api.herokuapp.com/api/v2/recipes/';
-export const TIMEOUT_SEC = 10;
-export const RES_PER_PAGE = 10;
-export const KEY = '<YOUR_KEY>';
-export const MODAL_CLOSE_SEC = 2.5;
+export const proxy = 'https://cors-anywhere.herokuapp.com/';
+export const key = '462b1cc8d4f2730081462fbc65136320';
